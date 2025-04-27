@@ -4,7 +4,6 @@
 ![Networking](https://img.shields.io/badge/Topic-Networking-orange?style=flat-square)
 ![Routing Protocols](https://img.shields.io/badge/Routing%20Protocols-Static%20%7C%20RIP%20%7C%20OSPF%20%7C%20BGP-9cf?style=flat-square)
 ![Application Layer](https://img.shields.io/badge/Application%20Layer-DHCP%20%7C%20DNS-lightgrey?style=flat-square)
-![Concepts](https://img.shields.io/badge/Concepts-VLAN%20%7C%20Static%20Routing%20%7C%20Security-critical?style=flat-square)
 ![Learning](https://img.shields.io/badge/Learning-Hands--on%20Practice-yellow?style=flat-square)
 
 ## 📜 About the Project
